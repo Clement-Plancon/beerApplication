@@ -1,0 +1,19 @@
+* {
+  border: 0px;
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+}
+
+body .beer {
+  width: 500px;
+  height: 500px;
+}
+/*# sourceMappingURL=style.css.map */
